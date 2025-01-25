@@ -1,2 +1,3 @@
 this is the content of the file.
 git will not start tracking the changes and no need to run the git add command once again
+performing some changes for second commit
